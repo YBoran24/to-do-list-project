@@ -1,5 +1,7 @@
 import { tv } from "tailwind-variants";
 
+export const headingText = "About";
+
 export const title = tv({
   base: "tracking-tight inline font-semibold",
   variants: {

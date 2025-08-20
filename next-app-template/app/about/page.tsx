@@ -1,4 +1,4 @@
-import { title, headingText } from "@/components/primitives";
+const headingText = "About";
 
 export default function AboutPage() {
   return (

@@ -55,3 +55,5 @@ export function subtitle(
   const fullWidthClass = fullWidth ? "!w-full" : "";
   return [base, fullWidthClass, className].filter(Boolean).join(" ").trim();
 }
+
+export const headingText = "About";
