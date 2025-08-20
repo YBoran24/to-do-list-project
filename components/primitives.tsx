@@ -1,4 +1,4 @@
-export function title() {
+export function title(_options?: any) {
   return "text-xl font-bold"; // örnek sınıf
 }
 export function subtitle({ class: className = "" } = {}) {
